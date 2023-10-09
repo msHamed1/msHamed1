@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**msHamed1/msHamed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Mahmoud Hamed 
+# Your Nodejs ,Laravel , NESTjs , REACT , hero ! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning systems architect 
+
+- 📫 How to reach me: Mahmoud.saifo.hamed@gmail.com or 00967 569685392
+
+- ![counter](https://ena7fbetz4jjo2a.m.pipedream.net)
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Hamed-itfaq)
 -->
