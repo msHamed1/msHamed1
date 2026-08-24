@@ -1,6 +1,6 @@
 # Hi, I'm Mahmoud Hamed 👋
 
-### Senior Backend Engineer | Distributed Systems • iGaming • FinTech • Web3
+### Senior Software Engineer | Distributed Systems • iGaming • FinTech • Web3
 
 I design and build **high-throughput, distributed backend systems** where reliability, concurrency, data consistency, and performance matter.
 
